@@ -1387,7 +1387,6 @@ Pocket
 Poem
 Poetry
 Point
-Poison
 Pole
 Politician
 Poll
@@ -1997,7 +1996,6 @@ Video
 View
 Villa
 Villager
-Violation
 Virgin
 Virtue
 Vision
